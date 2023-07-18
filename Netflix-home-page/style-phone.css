@@ -1,0 +1,66 @@
+
+    .logo {
+        width: 100px;
+    }
+
+    nav button {
+        padding: 5px 10px;
+    }
+
+    nav .lang-btn {
+        padding: 4px 8px;
+    }
+
+    .heading-cont {
+        position: unset;
+        transform: none;
+        padding-top: 150px;
+    }
+
+    .heading-cont h1 {
+        font-size: 30px;
+    }
+
+    .email-sign button {
+        font-size: 12px;
+        padding: 10px 15px;
+    }
+
+    .text-other, .img-other {
+        flex-basis: 100%;
+    }
+
+    .highlight h2 {
+        font-size: 30px;
+    }
+
+    .highlight p {
+        font-size: 15px;
+    }
+
+    .line:nth-child(2), .line:nth-child(4) {
+        flex-direction: column-reverse;
+    }
+
+    .highlight .line {
+        padding: 10px 0;
+    }
+
+    .que h2 {
+        font-size: 20px;
+    }
+
+    .attribute .cont {
+        font-size: 14px;
+    }
+
+    .attribute li label {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    label::after {
+        font-size: 22px;
+    }
+
+ 
